@@ -1,7 +1,7 @@
 # pid-tabanli-cizgi-izleyen-robot
 # Çizgi İzleyen Robot Sistemi
 
-Bu proje, yüksek hızlı ve otonom çizgi izleme görevleri için geliştirilmiş bir mobil robot sistemidir. Sistem; mekanik tasarım, elektronik kontrol ve gömülü yazılım bileşenlerinden oluşmaktadır.
+Bu proje, yüksek hızlı ve otonom çizgi izleme görevleri için geliştirilmiş bir mobil robot sistemidir. Piyasada yaygın olarak satılan bir robot için yazılan koddur. Sistem; mekanik tasarım, elektronik kontrol ve gömülü yazılım bileşenlerinden oluşmaktadır.
 
 ---
 
